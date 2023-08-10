@@ -6,7 +6,7 @@
    * [Configuration (Windows)](#configuration-windows)
    * [Usage](#usage)
 
-## Purpose or Introduction
+## Purpose
 
 The Keycloak-FIDO project serves as a demonstration of how Keycloak can be configured to work with FIDO2 authentication.\
 As technology continuously advances, so does the need for more secure authentication methods.\
