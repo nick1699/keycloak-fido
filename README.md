@@ -1,7 +1,7 @@
 # Keycloak-FIDO
 
 ## Table of Contents
-- [Purpose or Introduction](#purpose-or-introduction)
+- [Purpose](#purpose)
 - [Getting Started](#getting-started)
    * [Configuration (Windows)](#configuration-windows)
    * [Usage](#usage)
